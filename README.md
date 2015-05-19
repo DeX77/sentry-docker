@@ -1,5 +1,7 @@
 Sentry in Docker
 ==================
+## Note
+based on the excellent work by slafs: this simply includes the sentry-slack plugin. Do not use this, please use instead [slafs/sentry](https://registry.hub.docker.com/u/slafs/sentry/dockerfile/).
 
 ## Warning about build tags ##
 
